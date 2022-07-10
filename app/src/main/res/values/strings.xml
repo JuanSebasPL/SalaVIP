@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SalaVIP</string>
+    <string name="tab_text_1">PLAY STATION 4</string>
+    <string name="tab_text_2">XBOX ONE</string>
+    <string name="tab_text_3">VR</string>
+    <string name="tab_text_4">PC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_game_list">Games</string>
+    <string name="title_game_detail">Game Detail</string>
+    <string name="title_activity_video_visor">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    
+    <string-array name="generos">
+        <item> Acción </item>
+        <item> Arcade </item>
+        <item> Lucha </item>
+        <item> Terror </item>
+        <item> Familia y niños </item>
+        <item> Fiesta, música y baile </item>
+        <item> Plataforma </item>
+        <item> Carreras </item>
+        <item> RPG </item>
+        <item> Tirador </item>
+        <item> Simulacion </item>
+        <item> Acción </item>
+    </string-array>
+
+    <string-array name="jugadores">
+        <item> 1 </item>
+        <item> 1-2 </item>
+        <item> 1-4 </item>
+        <item> 5+ </item>
+    </string-array>
+
+    <string-array name="modoOnline">
+        <item> No Disponible </item>
+        <item> Disponible </item>
+
+    </string-array>
+    
+</resources>
